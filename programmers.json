@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Alan Mathison Turing",
+    "title": "British mathematician and logician",
+    "image": "https://everydaypower.com/wp-content/uploads/2021/05/42-Alan-Turing-Quotes-From-The-Father-of-Modern-Computing.jpg",
+    "salary": 17245,
+    "subjectsOfStudy": "artificial intelligence",
+    "country": "England"
+  },
+  {
+    "id": 2,
+    "name": "Dennis M. Ritchie",
+    "title": "American computer scientist",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg",
+    "salary": 12245,
+    "subjectsOfStudy": "UNIX",
+    "country": "New York"
+  },
+  {
+    "id": 3,
+    "name": "Linus Torvalds",
+    "title": "Finnish computer scientist",
+    "image": "https://cdn.britannica.com/99/124299-050-4B4D509F/Linus-Torvalds-2012.jpg",
+    "salary": 25445,
+    "subjectsOfStudy": "operating system",
+    "country": "Finland"
+  },
+  {
+    "id": 4,
+    "name": "Tim Berners-Lee",
+    "title": "British scientist",
+    "image": "https://cdn.britannica.com/22/221822-050-3B0A657F/British-scientist-Tim-Berners-Lee.jpg",
+    "salary": 21445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "England"
+  },
+  {
+    "id": 5,
+    "name": "Ken Thompson",
+    "title": "American computer scientist",
+    "image": "https://www.thefamouspeople.com/profiles/images/ken-thompson-2.jpg",
+    "salary": 11445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "New Orleans"
+  },
+  {
+    "id": 6,
+    "name": "Bill Gates",
+    "title": "American computer programmer, businessman, and philanthropist",
+    "image": "https://cdn.britannica.com/47/188747-050-1D34E743/Bill-Gates-2011.jpg",
+    "salary": 55445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "Washington"
+  },
+  {
+    "id": 7,
+    "name": "John McCarthy",
+    "title": "American mathematician and computer scientist",
+    "image": "https://media.wired.com/photos/59327c782a990b06268ab0b1/master/pass/john-mccarthy.png",
+    "salary": 40445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "Massachusetts"
+  },
+  {
+    "id": 9,
+    "name": "Alan Curtis Kay",
+    "title": "American computer scientist",
+    "image": "https://www.kyotoprize.org/wp-content/uploads/2019/02/AlanKay-1024x687-789x529.jpg",
+    "salary": 33445,
+    "subjectsOfStudy": "graphical user interface",
+    "country": "Springfield"
+  },
+  {
+    "id": 10,
+    "name": "Niklaus Wirth",
+    "title": "American computer scientist",
+    "image": "https://i.pinimg.com/474x/36/2f/81/362f815e70e745ebf075ebe20e46bdde--inventors.jpg",
+    "salary": 20445,
+    "subjectsOfStudy": "ALGOL",
+    "country": "Winterthur"
+  },
+  {
+    "id": 10,
+    "name": "James Arthur Gosling",
+    "title": "American computer scientist",
+    "image": "https://lh3.googleusercontent.com/proxy/79N38Gwx1Lq1_kC7ssOIYFcl-vZYcpIIng6tRgc52dY-6zb8l9RSXywT7XPWVQzX3TLeleyENUgkx8gJ",
+    "salary": 25445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "New York"
+  },
+  {
+    "id": 11,
+    "name": "Guido van Rossum",
+    "title": "American computer scientist",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/220px-https://lh3.googleusercontent.com/proxy/79N38Gwx1Lq1_kC7ssOIYFcl-vZYcpIIng6tRgc52dY-6zb8l9RSXywT7XPWVQzX3TLeleyENUgkx8gJGuido_van_Rossum_OSCON_2006.jpg",
+    "salary": 31445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "New York"
+  },
+  {
+    "id": 12,
+    "name": "John Carmack",
+    "title": "American computer-game designer",
+    "image": "https://cdn.britannica.com/60/193060-050-41898155/John-Carmack-2009.jpg",
+    "salary": 33445,
+    "subjectsOfStudy": "computer programming language",
+    "country": "New York"
+  }
+]
