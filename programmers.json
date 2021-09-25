@@ -63,7 +63,7 @@
     "country": "Massachusetts"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Alan Curtis Kay",
     "title": "American computer scientist",
     "image": "https://www.kyotoprize.org/wp-content/uploads/2019/02/AlanKay-1024x687-789x529.jpg",
@@ -72,7 +72,7 @@
     "country": "Springfield"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Niklaus Wirth",
     "title": "American computer scientist",
     "image": "https://i.pinimg.com/474x/36/2f/81/362f815e70e745ebf075ebe20e46bdde--inventors.jpg",
@@ -99,7 +99,7 @@
     "country": "New York"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "John Carmack",
     "title": "American computer-game designer",
     "image": "https://cdn.britannica.com/60/193060-050-41898155/John-Carmack-2009.jpg",
